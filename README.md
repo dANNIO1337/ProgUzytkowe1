@@ -1,6 +1,5 @@
-** ProgUzytkowe1 **
-
-** Damian Grabowski **
+##ProgUzytkowe1
+##Damian Grabowski
 
 # Opis projektu
 
